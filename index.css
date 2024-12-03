@@ -1,0 +1,15 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(62, 170, 185);
+}
+
+h1{
+  text-align: center;
+}
+div{
+  border: 2px solid teal;
+  
+}
